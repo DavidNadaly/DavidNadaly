@@ -1,10 +1,9 @@
-### This is David👋
+###  David Nadaly here...👋
 
 - 🔭 I’m currently working on design of efficient quantum algorithm
 - 🌱 Planning to learn deep learning.
-- 👯 I’m looking to collaborate on any quantum projects.
-- 📫 How to reach me:  vishnupurushothaman56@gmail.com 
-- 😄 Pronouns: Beauty not admired is a sin 🍁🍁
+- 👯 Looking to collaborate on any quantum projects.
+- 📫 Reach me at davidnadalyi@gmail.com
 - ⚡ Fun fact: cat is alive 
 
 
